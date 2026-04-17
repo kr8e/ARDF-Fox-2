@@ -1,4 +1,4 @@
-/*THIS IS THE ONE
+/*This one had the best promise - Matthew
   ============================================================
   "The Simple" ARDF Fox Transmitter  —  ESP32-C3 Fork
   Callsign : KR8E
